@@ -1,2 +1,3 @@
-#!bin/bash
-echo hello world!
+#!/bin/sh
+# This is a comment!
+echo Hello World !
